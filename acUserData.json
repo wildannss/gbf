@@ -124,5 +124,6 @@
     "USDT-ATA":{"minVol":1 },
     "USDT-DYDX":{"minVol":0.1 },
     "USDT-1000XEC":{"minVol":1 },
+    "USDT-CELO": {"minVol": 0.1 },
     "USDT-GALA":{"minVol":1 }
 }

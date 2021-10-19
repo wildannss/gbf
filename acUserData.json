@@ -127,11 +127,6 @@
     "USDT-GALA":{"minVol":1 },
     "USDT-CELO":{"minVol":0.1 },
     "USDT-AR":{"minVol":0.1 },
-<<<<<<< HEAD
     "USDT-KLAY":{"minVol":0.1 },
     "USDT-ARPA":{"minVol":1 }
 }
-=======
-    "USDT-KLAY":{"minVol":0.1 }    
-}
->>>>>>> 5b31d75898082ca5637e479ac7a6d472c1a07b0b
